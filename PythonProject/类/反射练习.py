@@ -43,4 +43,4 @@ else:
 # print(D.name)
 if hasattr(D, choice):
     delattr(D, choice)
-D.name
+D.name#被删除后报错
